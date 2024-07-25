@@ -1,0 +1,25 @@
+.pizza {
+    background-color: hsl(0, 50%, 70%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#pasta {
+    color: blue;
+    font-size: 36px;
+}
+
+.popcorn{
+    background-color: hsl(0, 50%, 70%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 36px;
+}
+
+#carrot {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.cheese {
+    background-color: hsl(0, 50%, 70%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
